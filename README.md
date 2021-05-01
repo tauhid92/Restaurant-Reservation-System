@@ -11,6 +11,7 @@ HTML, CSS, JavaScript, React, Express, Node.js, PostgreSQL, Knex.js, React Boots
 ## 📸 Screenshots
 
 ![Dashboard Tables and Reservations](screenshots/reservationDash.png)
+![Dashboard Tables and Reservations 2](screenshots/reservationDash2.png)
 ![Create a New Reservation](screenshots/createReservation.png)
 ![Reserve a Table](screenshots/reserveTable.png)
 ![Search Through Reservations](screenshots/searchReservations.png)
